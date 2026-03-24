@@ -1,12 +1,11 @@
-# 🧛‍♀️ Vampira Estilista
 
-> Sou estilista especializada em moda gótica com inspiração no universo dos vampiros e da estética sombria.
+# 🦇 Galeria Vampira Estilista
 
-## 🖤 Minha Arte em Destaque
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jucelyferreira76-oss/Desenho-de-Moda/main/Picsart_26-03-16_14-06-51-308.png" width="500px">
+  <img src="IMG_20260220_194737~2.jpg" width="600px">
 </div>
 
+> Do escuro emerge uma figura de mistério e fascínio...
 <!--
 **jucelyferreira76-oss/Jucelyferreira76-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
