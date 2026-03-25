@@ -2,8 +2,7 @@
 # 🦇 Galeria Vampira Estilista
 
 <div align="center">
-  <img src="IMG_20260220_194737~2.jpg" width="600px">
-</div>
+<img src="IMG_20260220_194737~2.jpg" width="600px">
 
 > Do escuro emerge uma figura de mistério e fascínio...
 <!--
