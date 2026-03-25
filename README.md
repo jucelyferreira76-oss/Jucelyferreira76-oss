@@ -1,10 +1,6 @@
 Olá!🧛🏻‍♀️
 # 🦇 Galeria Vampira Estilista
 
-<div align="center">
-<img src="IMG_20260220_194737~2.jpg" width="600px">
-
-> Do escuro emerge uma figura de mistério e fascínio...
 <!--
 **jucelyferreira76-oss/Jucelyferreira76-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
