@@ -4,7 +4,7 @@ Olá!🧛🏻‍♀️
 <!--
 **jucelyferreira76-oss/Jucelyferreira76-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Degner de Moda Gothic...
 
 🖤  O clássico da elegância sombria.
 🦇  O teu símbolo principal.
