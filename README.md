@@ -1,4 +1,20 @@
+<br clear="both">
 
+<h3 align="center">"Estilista especializada em moda gótica e estética vitoriana. Transformando o mistério em traços de grafite e elegância sombria."🥀</h3>
+
+###
+
+<h3 align="left">🦇 Portfólio de Alta Costura Gótica<br>🪡 O Ateliê da Noite (Para falar sobre o teu trabalho)<br>🖋️ Croquis & Desenhos em Grafite (Para a tua galeria)<br>🕸️ Inspirações de Design (Para o teu processo)<br> 🌑 Contacto & Redes Sociais (Onde fica o link do Instagram)</h3>
+
+###
+
+<h3 align="center">🩸Desenho de Moda Gothic.🥀</h3>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
 <br clear="both">
 
 <h2 align="left">🥀"Do escuro emerge a elegância. Sou Estilista especializada em moda gótica, transformando mistério em traços de grafite."🩸</h2>
