@@ -48,6 +48,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
   <img width="12" />
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jucelyferreira76-oss&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blood&hide_border=true&bg_color=000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" height="150" alt="grafico de idiomas" />
+
+  <img src="https://streak-stats.demolab.com?user=Jucelyferreira76-oss&locale=pt-br&mode=daily&theme=blood&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&stroke=ff0000" height="150" alt="sequencia" />
+
+  <img src="https://github-profile-trophy.vercel.app?username=Jucelyferreira76-oss&theme=blood&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="trofeus" />
+</div>
   
   
 
