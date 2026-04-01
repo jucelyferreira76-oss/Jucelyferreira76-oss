@@ -48,11 +48,5 @@
   <img 
     
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jucelyferreira76-oss&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Minha%20Paleta%20de%20C%C3%B3digo%20ou%20Tecidos%20Digitais" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Jucelyferreira76-oss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Jucelyferreira76-oss&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
-###
 
