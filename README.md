@@ -49,4 +49,10 @@
     
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jucelyferreira76-oss&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blood&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000&custom_title=Minha%20Paleta%20de%20Traços" height="150" alt="languages graph" />
 
+  <img src="https://streak-stats.demolab.com?user=Jucelyferreira76-oss&locale=pt-br&mode=daily&theme=blood&hide_border=true&border_radius=5&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000" height="150" alt="streak graph" />
+
+  <img src="https://github-profile-trophy.vercel.app?username=Jucelyferreira76-oss&theme=blood&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="trophy graph" />
+</div>
