@@ -5,7 +5,9 @@
 ###
 
 <h3 align="left">🦇 Portfólio de Alta Costura Gótica<br>🪡 O Ateliê da Noite (Para falar sobre o teu trabalho)<br>🖋️ Croquis & Desenhos em Grafite (Para a tua galeria)<br>🕸️ Inspirações de Design (Para o teu processo)<br> 🌑 Contacto & Redes Sociais (Onde fica o link do Instagram)</h3>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jucelyferreira76-oss&theme=vampire" alt="Ateliê da Vampira Estilista" />
+</div>
 ###
 
 <h3 align="center">🩸Desenho de Moda Gothic.🥀</h3>
