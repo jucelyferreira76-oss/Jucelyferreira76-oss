@@ -53,7 +53,6 @@
 
   <img src="https://streak-stats.demolab.com?user=Jucelyferreira76-oss&locale=pt-br&mode=daily&theme=blood&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&stroke=ff0000" height="150" alt="sequencia" />
 
-  <img src="
     
   
 
