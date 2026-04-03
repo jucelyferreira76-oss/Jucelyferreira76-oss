@@ -59,7 +59,6 @@
 
 
 
-
 ###
 
 
@@ -79,6 +78,8 @@
 
 
 
-###
+###<div align="center">
+  <img src="https://i.imgur.com/vHqX2q8.jpg" alt="Croqui de Moda Gótica" width="400" />
+</div>
 
 
