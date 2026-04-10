@@ -20,7 +20,23 @@
 <h2 align="left">🥀"Do escuro emerge a elegância. Sou Estilista especializada em moda gótica, transformando mistério em traços de grafite."🩸</h2>
 
 ###
+<div align="center">
+  <a href="https://vampiraestilista.blogspot.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=BLOG&logo=blogger&label=&color=bloodred&logoColor=white&style=for-the-badge" height="35" alt="blog logo" />
+  </a>
 
+  <a href="https://www.youtube.com/@vampiraestilista" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YOUTUBE&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+
+  <a href="https://www.tiktok.com/@vampiraestilista" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TIKTOK&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="tiktok logo" />
+  </a>
+
+  <a href="https://www.instagram.com/vampiraestilista" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=INSTAGRAM&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+</div>
 
 
 
